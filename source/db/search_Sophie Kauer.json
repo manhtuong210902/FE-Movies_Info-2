@@ -1,0 +1,31 @@
+{
+    "id": "nm13154325",
+    "name": "Sophie Kauer",
+    "role": "Actor",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQ1NDU1YmQtMzlhMy00YTdmLTlhMWEtNzNhNDgyYjNjMjdhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.6751_AL_.jpg",
+    "summary": "Sophie Kauer is a British-German cellist and actress, known for TÁR (2022). She was born in London in September 2001 and attended the Junior Department of the Royal Academy of Music, where she held a scholarship and had won all prizes open to her by the age of 16. From 2015-2020 she was a private pupil of cello professor Melissa Phelps. She moved ...",
+    "birthDate": null,
+    "deathDate": null,
+    "awards": "",
+    "height": "",
+    "knownFor": [
+        {
+            "id": "tt14444726",
+            "title": "TÁR",
+            "fullTitle": "TÁR 2022",
+            "year": "2022",
+            "role": "Actor",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjRhNDM1MWItN2NiYy00MjQzLTg5NDgtMjRjYWEyNTgxMTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.7407_AL_.jpg"
+        }
+    ],
+    "castMovies": [
+        {
+            "id": "tt14444726",
+            "role": "Actor",
+            "title": "TÁR",
+            "year": "2022",
+            "description": "(post-production)"
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+}
+
+.bg-dark{
+    background-color: #212429;
+}
+
+.bg-black{
+    background-color: #141414;
+}
+
+.navbar{
+    border: 1px solid #fff;
+}
+
+.alert{
+    border: 1px solid #fff;
+}
+
+.app{
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.header_more p{
+    margin-bottom: 10px;
+}
+
+.banner_img{
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.carousel-inner{
+    overflow: unset;
+    padding: 0 30px;
+}
+
+.content .carousel-indicators{
+    margin-bottom: 0;
+    margin-right: 30px;
+    justify-content: end;
+    bottom: 100%;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    width: unset;
+}
+
+.slider_img{
+    width: 100%;
+    height: 200px;
+    object-position: center;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+.slider_item{
+    position: relative;
+}
+
+.slider_info{
+    padding: 4px;
+    text-align: center;
+    display: none;
+}
+
+.slider_item:hover{
+    transform: scale(1.2);
+    transition: ease-in-out 0.2s;
+    z-index: 100;
+}
+
+.slider_item:hover .slider_info{
+    display: block;
+}
+
+.card_search{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.actor-link{
+    cursor: pointer;
+    color: var(--bs-primary);
+}
+
+.banner-item{
+    cursor: pointer;
+}
+
+.detail-movie, .detail-actor{
+    border: 1px solid #fff;
+}
+
+
